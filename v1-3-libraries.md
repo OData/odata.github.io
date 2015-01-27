@@ -2,7 +2,7 @@
 layout: default
 title: "V1-3 Libraries"
 ---
-The .NET libraries for OData V1-3 are the core libraries and the WCF Data Services series. They are:
+The .NET libraries and tools for building and consuming OData V1 - V3 are mainly three categories - core libraries, WCF Data Services series and ASP.NET Web API OData, detailed as follows:
 
 **Libraries**
 
