@@ -36,7 +36,7 @@ To build an OData V4 **service**, start by following:
 
 **Relationship**
 
-![Client side]({{site.baseurl}}/assets/library-relationship.png)
+![Client side](/assets/library-relationship.png)
 
 # Support
 
