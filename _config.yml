@@ -4,7 +4,7 @@ email: odatafeedback@microsoft.com
 description: > # this means to ignore newlines until "baseurl:"
   This site is a central place that hosts information about the Microsft OData stack
   implemented by the OData team of Microsoft. The materials available on this site are licensed
-  as set forth [here](https://github.com/OData/odata.github.io/blob/master/License.txt).
+  as set forth here: "https://github.com/OData/odata.github.io/blob/master/License.txt".
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  odata
