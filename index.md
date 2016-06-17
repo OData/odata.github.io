@@ -54,3 +54,9 @@ To build an OData V4 **client application** to consume OData v4 Service, start b
 - [OData .Net Lib Issue Tracker](https://github.com/OData/odata.net/issues)
 - [WebApi OData Issue Tracker](https://github.com/OData/WebApi/issues)
 - [RESTier Issue Tracker](https://github.com/OData/RESTier/issues)
+
+# Thank You!
+
+We’re using NDepend to analyze and increase code quality.
+
+[![NDepend](assets/ndependlogo.png)](http://www.ndepend.com)
