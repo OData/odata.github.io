@@ -11,7 +11,7 @@ To build an OData V4 **service**, start by following:
 
 - ["Build an OData v4 Service with RESTier Library"](http://odata.github.io/RESTier/#01-01-Introduction) for a turn-key experience, or if you are a data developer.
 
-- ["Build an OData v4 Service with OData WebApi Library"](http://odata.github.io/WebApi/#01-02-getting-started) if you get used to MVC pattern, or you are a web developer.
+- ["Build an OData v4 Service with OData WebApi Library"](http://odata.github.io/WebApi/#01-02-getting-started) if you are used to MVC pattern, or you are a web developer.
 
 To build an OData V4 **client application** to consume OData v4 Service, start by following:
 
