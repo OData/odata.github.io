@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![odata](./assets/odata_logo.png "https://www.odata.org/")
 # Getting started
 
 OData is an [OASIS standard](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=odata) for creating and consuming RESTful APIs. 
@@ -46,7 +46,7 @@ To build an OData V4 **client application** to consume OData v4 Service, start b
 
 **Relationship**
 
-![Client side](/assets/library-relationship.png)
+![Client side](./assets/library-relationship.png)
 
 # Support
 
