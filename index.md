@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![odata](assets/odata_logo.png "https://www.odata.org/")
 # Getting started
 
 OData is an [OASIS standard](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=odata) for creating and consuming RESTful APIs. 
