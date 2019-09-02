@@ -42,7 +42,7 @@ To build an OData V4 **client application** to consume OData v4 Service, start b
 
 - **OData Client Code Generator**. An item template that simplifies the process of accessing OData v4 services by generating C# and VB.Net client-side proxy classes. It works with Visual Studio 2010, 2012, 2013 and 2015. ([download](https://visualstudiogallery.msdn.microsoft.com/9b786c0e-79d1-4a50-89a5-125e57475937) \| [tutorial](http://blogs.msdn.com/b/odatateam/archive/2014/03/11/how-to-use-odata-client-code-generator-to-generate-client-side-proxy-class.aspx)).
 
-- **OData Connected Service**. An item template that simplifies the process of accessing OData v3 and v4 services by generating C# client-side proxy classes. It works with Visual Studio 2015 only. ([download](https://visualstudiogallery.msdn.microsoft.com/b343d0eb-6493-44c2-b558-13a0408d013f/file/163980/4/Microsoft.OData.ConnectedService.vsix) \| [tutorial](http://odata.github.io/odata.net/#OData-Client-Code-Generation-Tool)).
+- **OData Connected Service**. An item template that simplifies the process of accessing OData v3 and v4 services by generating C# client-side proxy classes. It works with Visual Studio 2015 and 2017. ([download](https://visualstudiogallery.msdn.microsoft.com/b343d0eb-6493-44c2-b558-13a0408d013f/file/163980/4/Microsoft.OData.ConnectedService.vsix) \| [tutorial](http://odata.github.io/odata.net/#OData-Client-Code-Generation-Tool)).
 
 **Relationship**
 
